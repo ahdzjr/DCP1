@@ -1,0 +1,7 @@
+C:\Users\Albert\Documents\Programming\Daily Coding Problems\DCP1\DCP1\bin\Debug\DCP1.exe.config
+C:\Users\Albert\Documents\Programming\Daily Coding Problems\DCP1\DCP1\bin\Debug\DCP1.exe
+C:\Users\Albert\Documents\Programming\Daily Coding Problems\DCP1\DCP1\bin\Debug\DCP1.pdb
+C:\Users\Albert\Documents\Programming\Daily Coding Problems\DCP1\DCP1\obj\Debug\DCP1.csprojAssemblyReference.cache
+C:\Users\Albert\Documents\Programming\Daily Coding Problems\DCP1\DCP1\obj\Debug\DCP1.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Programming\Daily Coding Problems\DCP1\DCP1\obj\Debug\DCP1.exe
+C:\Users\Albert\Documents\Programming\Daily Coding Problems\DCP1\DCP1\obj\Debug\DCP1.pdb
